@@ -17,4 +17,6 @@
 
 ## 결과물
 
+- [시연영상](https://youtu.be/-dTAxCWks7Y)
+
 ![pic](./doc/pic.jpg)
